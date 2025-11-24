@@ -8,6 +8,7 @@
 
 - 📚 Estudiante Desarrollo de Aplicaiones Multiplataforma 📚
 - 📲 Mobile developer
+- 🖥️ Desktop developer
 <br>
 
 ## Proyectos 
