@@ -10,7 +10,7 @@
 - 📲 Mobile developer
 <br>
 
-## Proyectos **
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
