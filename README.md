@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Jesús <a href="https://www.linkedin.com/in/jes%C3%BAs-regueira-v%C3%A1zquez-30746a291/">Jesús Regueira Vázquez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src=""C:\Users\jesus\Pictures\Screenshots\Captura de pantalla 2025-11-24 132420.png"">
 
 
 ## Sobre mi
