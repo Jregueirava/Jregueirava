@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Mi primer proyecto en Flutter</h3>
 <div align="center">
-<a href="https://github.com/Jregueirava/t3_2.git" target="_blank"><img src="" width="400" alt="Mi CV"></a>
+<a href="https://github.com/Jregueirava/t3_2.git" target="_blank"><img src="https://github.com/Jregueirava/Jregueirava/blob/main/Captura%20de%20pantalla%202025-11-24%20133219.png" width="400" alt="Mi CV"></a>
 <p>
 </p>
 <p>Mi primera APP en Flutter <strong>Mi CV</strong> - En este proyecto verás todo sobre mi vida laboral y estudiantil.<strong>MI CV</strong> con todo el código disponible para visualizar.</p>
