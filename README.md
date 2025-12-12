@@ -6,7 +6,7 @@
 
 ## Sobre mi
 
-- 📚 Estudiante Desarrollo de Aplicaiones Multiplataforma 📚
+- 📚 Desarrollador Multiplataforma 📚
 - 📲 Mobile developer
 - 🖥️ Desktop developer
 <br>
