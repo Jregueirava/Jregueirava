@@ -9,6 +9,7 @@
 - 📚 Desarrollador Multiplataforma 📚
 - 📲 Mobile developer
 - 🖥️ Desktop developer
+- <a href="https://mi-cv-alpha.vercel.app">Mi CV</a>
 <br>
 
 ## My Skills Include
